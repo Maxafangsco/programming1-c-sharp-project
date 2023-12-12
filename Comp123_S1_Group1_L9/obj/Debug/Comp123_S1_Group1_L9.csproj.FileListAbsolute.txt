@@ -1,0 +1,54 @@
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\HongChitC_301366112_L9\obj\Debug\Comp123_S1_Group1_L9.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\HongChitC_301366112_L9\obj\Debug\Comp123_S1_Group1_L9.CustomerForm.resources
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\HongChitC_301366112_L9\obj\Debug\Comp123_S1_Group1_L9.MainForm.resources
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\HongChitC_301366112_L9\obj\Debug\Comp123_S1_Group1_L9.OrderForm.resources
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\HongChitC_301366112_L9\obj\Debug\Comp123_S1_Group1_L9.Properties.Resources.resources
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\HongChitC_301366112_L9\obj\Debug\Comp123_S1_Group1_L9.csproj.GenerateResource.cache
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\HongChitC_301366112_L9\obj\Debug\Comp123_S1_Group1_L9.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\HongChitC_301366112_L9\bin\Debug\Comp123_S1_Group1_L9.exe.config
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\HongChitC_301366112_L9\bin\Debug\Comp123_S1_Group1_L9.exe
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\HongChitC_301366112_L9\bin\Debug\Comp123_S1_Group1_L9.pdb
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\HongChitC_301366112_L9\bin\Debug\Comp123_S1_Group1_L6.dll
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\HongChitC_301366112_L9\bin\Debug\Newtonsoft.Json.dll
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\HongChitC_301366112_L9\bin\Debug\Comp123_S1_Group1_L6.pdb
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\HongChitC_301366112_L9\bin\Debug\Comp123_S1_Group1_L6.dll.config
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\HongChitC_301366112_L9\bin\Debug\Newtonsoft.Json.xml
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\HongChitC_301366112_L9\obj\Debug\Comp123_S1_Group1_L9.csproj.CopyComplete
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\HongChitC_301366112_L9\obj\Debug\Comp123_S1_Group1_L9.exe
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\HongChitC_301366112_L9\obj\Debug\Comp123_S1_Group1_L9.pdb
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\Comp123_S1_Group1_L9\bin\Debug\Comp123_S1_Group1_L9.exe.config
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\Comp123_S1_Group1_L9\bin\Debug\Comp123_S1_Group1_L9.exe
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\Comp123_S1_Group1_L9\bin\Debug\Comp123_S1_Group1_L9.pdb
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\Comp123_S1_Group1_L9\bin\Debug\Comp123_S1_Group1_L6.dll
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\Comp123_S1_Group1_L9\bin\Debug\Newtonsoft.Json.dll
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\Comp123_S1_Group1_L9\bin\Debug\Comp123_S1_Group1_L6.pdb
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\Comp123_S1_Group1_L9\bin\Debug\Comp123_S1_Group1_L6.dll.config
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\Comp123_S1_Group1_L9\bin\Debug\Newtonsoft.Json.xml
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\Comp123_S1_Group1_L9\obj\Debug\Comp123_S1_Group1_L9.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\Comp123_S1_Group1_L9\obj\Debug\Comp123_S1_Group1_L9.CustomerForm.resources
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\Comp123_S1_Group1_L9\obj\Debug\Comp123_S1_Group1_L9.MainForm.resources
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\Comp123_S1_Group1_L9\obj\Debug\Comp123_S1_Group1_L9.OrderForm.resources
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\Comp123_S1_Group1_L9\obj\Debug\Comp123_S1_Group1_L9.Properties.Resources.resources
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\Comp123_S1_Group1_L9\obj\Debug\Comp123_S1_Group1_L9.csproj.GenerateResource.cache
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\Comp123_S1_Group1_L9\obj\Debug\Comp123_S1_Group1_L9.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\Comp123_S1_Group1_L9\obj\Debug\Comp123_S1_Group1_L9.csproj.CopyComplete
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\Comp123_S1_Group1_L9\obj\Debug\Comp123_S1_Group1_L9.exe
+C:\Users\henry\source\repos\Lab9\Comp123_S1_Group1_L9\Comp123_S1_Group1_L9\obj\Debug\Comp123_S1_Group1_L9.pdb
+C:\Users\Admin\Documents\comp123 (programming 2)\Team_work\Comp123_S1_Group1_L9\bin\Debug\Comp123_S1_Group1_L9.exe.config
+C:\Users\Admin\Documents\comp123 (programming 2)\Team_work\Comp123_S1_Group1_L9\bin\Debug\Comp123_S1_Group1_L9.exe
+C:\Users\Admin\Documents\comp123 (programming 2)\Team_work\Comp123_S1_Group1_L9\bin\Debug\Comp123_S1_Group1_L9.pdb
+C:\Users\Admin\Documents\comp123 (programming 2)\Team_work\Comp123_S1_Group1_L9\bin\Debug\Comp123_S1_Group1_L6.dll
+C:\Users\Admin\Documents\comp123 (programming 2)\Team_work\Comp123_S1_Group1_L9\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\comp123 (programming 2)\Team_work\Comp123_S1_Group1_L9\bin\Debug\Comp123_S1_Group1_L6.pdb
+C:\Users\Admin\Documents\comp123 (programming 2)\Team_work\Comp123_S1_Group1_L9\bin\Debug\Comp123_S1_Group1_L6.dll.config
+C:\Users\Admin\Documents\comp123 (programming 2)\Team_work\Comp123_S1_Group1_L9\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\comp123 (programming 2)\Team_work\Comp123_S1_Group1_L9\obj\Debug\Comp123_S1_Group1_L9.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\comp123 (programming 2)\Team_work\Comp123_S1_Group1_L9\obj\Debug\Comp123_S1_Group1_L9.CustomerForm.resources
+C:\Users\Admin\Documents\comp123 (programming 2)\Team_work\Comp123_S1_Group1_L9\obj\Debug\Comp123_S1_Group1_L9.MainForm.resources
+C:\Users\Admin\Documents\comp123 (programming 2)\Team_work\Comp123_S1_Group1_L9\obj\Debug\Comp123_S1_Group1_L9.OrderForm.resources
+C:\Users\Admin\Documents\comp123 (programming 2)\Team_work\Comp123_S1_Group1_L9\obj\Debug\Comp123_S1_Group1_L9.Properties.Resources.resources
+C:\Users\Admin\Documents\comp123 (programming 2)\Team_work\Comp123_S1_Group1_L9\obj\Debug\Comp123_S1_Group1_L9.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\comp123 (programming 2)\Team_work\Comp123_S1_Group1_L9\obj\Debug\Comp123_S1_Group1_L9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\comp123 (programming 2)\Team_work\Comp123_S1_Group1_L9\obj\Debug\Comp123_S1_Group1_L9.csproj.CopyComplete
+C:\Users\Admin\Documents\comp123 (programming 2)\Team_work\Comp123_S1_Group1_L9\obj\Debug\Comp123_S1_Group1_L9.exe
+C:\Users\Admin\Documents\comp123 (programming 2)\Team_work\Comp123_S1_Group1_L9\obj\Debug\Comp123_S1_Group1_L9.pdb

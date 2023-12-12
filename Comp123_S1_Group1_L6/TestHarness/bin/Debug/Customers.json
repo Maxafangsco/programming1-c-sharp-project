@@ -1,0 +1,357 @@
+{
+  "$type": "System.Collections.Generic.List`1[[HongChitC_301366112_L6.Customer, HongChitC_301366112_L6]], mscorlib",
+  "$values": [
+    {
+      "$type": "HongChitC_301366112_L6.Customer, HongChitC_301366112_L6",
+      "Address": {
+        "$type": "HongChitC_301366112_L6.Address, HongChitC_301366112_L6",
+        "City": "Toronto",
+        "PostalCode": "M2M 2K5",
+        "Province": "ON",
+        "Street": "35 Elm St"
+      },
+      "IdNumber": 2,
+      "Name": "Jon Smith",
+      "Orders": {
+        "$type": "System.Collections.Generic.List`1[[HongChitC_301366112_L6.Order, HongChitC_301366112_L6]], mscorlib",
+        "$values": [
+          {
+            "$type": "HongChitC_301366112_L6.Order, HongChitC_301366112_L6",
+            "Cost": 8.45,
+            "Delivered": true,
+            "DeliveryAddress": {
+              "$type": "HongChitC_301366112_L6.Address, HongChitC_301366112_L6",
+              "City": "Toronto",
+              "PostalCode": "M2M 2K5",
+              "Province": "ON",
+              "Street": "35 Elm St"
+            },
+            "DeliveryTime": "2023-11-11T23:43:03.1503969-05:00",
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[HongChitC_301366112_L6.OrderItem, HongChitC_301366112_L6]], mscorlib",
+              "$values": [
+                {
+                  "$type": "HongChitC_301366112_L6.OrderItem, HongChitC_301366112_L6",
+                  "Cost": 2.05,
+                  "Item": {
+                    "$type": "HongChitC_301366112_L6.Sugar, HongChitC_301366112_L6",
+                    "description": "Sugar",
+                    "baseCost": 0.05,
+                    "Description": "Black coffee, Sugar",
+                    "BaseCost": 2.05
+                  }
+                },
+                {
+                  "$type": "HongChitC_301366112_L6.OrderItem, HongChitC_301366112_L6",
+                  "Cost": 2.10,
+                  "Item": {
+                    "$type": "HongChitC_301366112_L6.Sugar, HongChitC_301366112_L6",
+                    "description": "Sugar",
+                    "baseCost": 0.05,
+                    "Description": "Black coffee, Sugar, Sugar",
+                    "BaseCost": 2.10
+                  }
+                },
+                {
+                  "$type": "HongChitC_301366112_L6.OrderItem, HongChitC_301366112_L6",
+                  "Cost": 2.15,
+                  "Item": {
+                    "$type": "HongChitC_301366112_L6.Sugar, HongChitC_301366112_L6",
+                    "description": "Sugar",
+                    "baseCost": 0.05,
+                    "Description": "Black coffee, Milk, Sugar",
+                    "BaseCost": 2.15
+                  }
+                },
+                {
+                  "$type": "HongChitC_301366112_L6.OrderItem, HongChitC_301366112_L6",
+                  "Cost": 2.15,
+                  "Item": {
+                    "$type": "HongChitC_301366112_L6.Sugar, HongChitC_301366112_L6",
+                    "description": "Sugar",
+                    "baseCost": 0.05,
+                    "Description": "Black coffee, Milk, Sugar",
+                    "BaseCost": 2.15
+                  }
+                }
+              ]
+            },
+            "OrderId": 1,
+            "OrderTime": "2023-11-11T23:43:03.1347722-05:00",
+            "OrderType": 0
+          },
+          {
+            "$type": "HongChitC_301366112_L6.Order, HongChitC_301366112_L6",
+            "Cost": 7.00,
+            "Delivered": true,
+            "DeliveryAddress": {
+              "$type": "HongChitC_301366112_L6.Address, HongChitC_301366112_L6",
+              "City": "Toronto",
+              "PostalCode": "M2M 2K5",
+              "Province": "ON",
+              "Street": "35 Elm St"
+            },
+            "DeliveryTime": "2023-11-11T23:43:03.1503969-05:00",
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[HongChitC_301366112_L6.OrderItem, HongChitC_301366112_L6]], mscorlib",
+              "$values": [
+                {
+                  "$type": "HongChitC_301366112_L6.OrderItem, HongChitC_301366112_L6",
+                  "Cost": 2.00,
+                  "Item": {
+                    "$type": "HongChitC_301366112_L6.Milk, HongChitC_301366112_L6",
+                    "description": "Milk",
+                    "baseCost": 0.10,
+                    "Description": "Tea, Milk, Milk",
+                    "BaseCost": 2.00
+                  }
+                },
+                {
+                  "$type": "HongChitC_301366112_L6.OrderItem, HongChitC_301366112_L6",
+                  "Cost": 5.00,
+                  "Item": {
+                    "$type": "HongChitC_301366112_L6.SandwichWithBacon, HongChitC_301366112_L6",
+                    "description": "White bread sandwich with bacon",
+                    "baseCost": 5.00,
+                    "Description": "White bread sandwich with bacon",
+                    "BaseCost": 5.00
+                  }
+                }
+              ]
+            },
+            "OrderId": 4,
+            "OrderTime": "2023-11-11T23:43:03.1347722-05:00",
+            "OrderType": 0
+          }
+        ]
+      },
+      "Phone": 4161234567
+    },
+    {
+      "$type": "HongChitC_301366112_L6.Customer, HongChitC_301366112_L6",
+      "Address": {
+        "$type": "HongChitC_301366112_L6.Address, HongChitC_301366112_L6",
+        "City": "Toronto",
+        "PostalCode": "M2T 1M1",
+        "Province": "ON",
+        "Street": "35 Queen St"
+      },
+      "IdNumber": 3,
+      "Name": "Ann Brown",
+      "Orders": {
+        "$type": "System.Collections.Generic.List`1[[HongChitC_301366112_L6.Order, HongChitC_301366112_L6]], mscorlib",
+        "$values": [
+          {
+            "$type": "HongChitC_301366112_L6.Order, HongChitC_301366112_L6",
+            "Cost": 4.20,
+            "Delivered": true,
+            "DeliveryAddress": {
+              "$type": "HongChitC_301366112_L6.Address, HongChitC_301366112_L6",
+              "City": "Toronto",
+              "PostalCode": "M2T 1M1",
+              "Province": "ON",
+              "Street": "35 Queen St"
+            },
+            "DeliveryTime": "2023-11-11T23:43:03.1503969-05:00",
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[HongChitC_301366112_L6.OrderItem, HongChitC_301366112_L6]], mscorlib",
+              "$values": [
+                {
+                  "$type": "HongChitC_301366112_L6.OrderItem, HongChitC_301366112_L6",
+                  "Cost": 2.10,
+                  "Item": {
+                    "$type": "HongChitC_301366112_L6.Milk, HongChitC_301366112_L6",
+                    "description": "Milk",
+                    "baseCost": 0.10,
+                    "Description": "Black coffee, Milk",
+                    "BaseCost": 2.10
+                  }
+                },
+                {
+                  "$type": "HongChitC_301366112_L6.OrderItem, HongChitC_301366112_L6",
+                  "Cost": 2.10,
+                  "Item": {
+                    "$type": "HongChitC_301366112_L6.Milk, HongChitC_301366112_L6",
+                    "description": "Milk",
+                    "baseCost": 0.10,
+                    "Description": "Black coffee, Milk",
+                    "BaseCost": 2.10
+                  }
+                }
+              ]
+            },
+            "OrderId": 2,
+            "OrderTime": "2023-11-11T23:43:03.1347722-05:00",
+            "OrderType": 0
+          }
+        ]
+      },
+      "Phone": 4169876543
+    },
+    {
+      "$type": "HongChitC_301366112_L6.Customer, HongChitC_301366112_L6",
+      "Address": {
+        "$type": "HongChitC_301366112_L6.Address, HongChitC_301366112_L6",
+        "City": "Toronto",
+        "PostalCode": "",
+        "Province": "ON",
+        "Street": ""
+      },
+      "IdNumber": 4,
+      "Name": "John Dow",
+      "Orders": {
+        "$type": "System.Collections.Generic.List`1[[HongChitC_301366112_L6.Order, HongChitC_301366112_L6]], mscorlib",
+        "$values": [
+          {
+            "$type": "HongChitC_301366112_L6.Order, HongChitC_301366112_L6",
+            "Cost": 6.00,
+            "Delivered": true,
+            "DeliveryAddress": {
+              "$type": "HongChitC_301366112_L6.Address, HongChitC_301366112_L6",
+              "City": "Toronto",
+              "PostalCode": "",
+              "Province": "ON",
+              "Street": ""
+            },
+            "DeliveryTime": "2023-11-11T23:43:03.1503969-05:00",
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[HongChitC_301366112_L6.OrderItem, HongChitC_301366112_L6]], mscorlib",
+              "$values": [
+                {
+                  "$type": "HongChitC_301366112_L6.OrderItem, HongChitC_301366112_L6",
+                  "Cost": 2.20,
+                  "Item": {
+                    "$type": "HongChitC_301366112_L6.Milk, HongChitC_301366112_L6",
+                    "description": "Milk",
+                    "baseCost": 0.10,
+                    "Description": "Dark roast coffee, Milk, Milk",
+                    "BaseCost": 2.20
+                  }
+                },
+                {
+                  "$type": "HongChitC_301366112_L6.OrderItem, HongChitC_301366112_L6",
+                  "Cost": 1.90,
+                  "Item": {
+                    "$type": "HongChitC_301366112_L6.Milk, HongChitC_301366112_L6",
+                    "description": "Milk",
+                    "baseCost": 0.10,
+                    "Description": "Tea, Milk",
+                    "BaseCost": 1.90
+                  }
+                },
+                {
+                  "$type": "HongChitC_301366112_L6.OrderItem, HongChitC_301366112_L6",
+                  "Cost": 1.90,
+                  "Item": {
+                    "$type": "HongChitC_301366112_L6.Milk, HongChitC_301366112_L6",
+                    "description": "Milk",
+                    "baseCost": 0.10,
+                    "Description": "Tea, Milk",
+                    "BaseCost": 1.90
+                  }
+                }
+              ]
+            },
+            "OrderId": 3,
+            "OrderTime": "2023-11-11T23:43:03.1347722-05:00",
+            "OrderType": 0
+          }
+        ]
+      },
+      "Phone": 0
+    },
+    {
+      "$type": "HongChitC_301366112_L6.Customer, HongChitC_301366112_L6",
+      "Address": {
+        "$type": "HongChitC_301366112_L6.Address, HongChitC_301366112_L6",
+        "City": "Toronto",
+        "PostalCode": "M1M 1M1",
+        "Province": "ON",
+        "Street": "1 King St"
+      },
+      "IdNumber": 1,
+      "Name": "Coffee and sandwiches",
+      "Orders": {
+        "$type": "System.Collections.Generic.List`1[[HongChitC_301366112_L6.Order, HongChitC_301366112_L6]], mscorlib",
+        "$values": [
+          {
+            "$type": "HongChitC_301366112_L6.Order, HongChitC_301366112_L6",
+            "Cost": 5.00,
+            "Delivered": true,
+            "DeliveryAddress": {
+              "$type": "HongChitC_301366112_L6.Address, HongChitC_301366112_L6",
+              "City": "Toronto",
+              "PostalCode": "M1M 1M1",
+              "Province": "ON",
+              "Street": "1 King St"
+            },
+            "DeliveryTime": "2023-11-11T23:43:03.1347722-05:00",
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[HongChitC_301366112_L6.OrderItem, HongChitC_301366112_L6]], mscorlib",
+              "$values": [
+                {
+                  "$type": "HongChitC_301366112_L6.OrderItem, HongChitC_301366112_L6",
+                  "Cost": 5.00,
+                  "Item": {
+                    "$type": "HongChitC_301366112_L6.SandwichWithBacon, HongChitC_301366112_L6",
+                    "description": "White bread sandwich with bacon",
+                    "baseCost": 5.00,
+                    "Description": "White bread sandwich with bacon",
+                    "BaseCost": 5.00
+                  }
+                }
+              ]
+            },
+            "OrderId": 5,
+            "OrderTime": "2023-11-11T23:43:03.1347722-05:00",
+            "OrderType": 1
+          },
+          {
+            "$type": "HongChitC_301366112_L6.Order, HongChitC_301366112_L6",
+            "Cost": 9.50,
+            "Delivered": true,
+            "DeliveryAddress": {
+              "$type": "HongChitC_301366112_L6.Address, HongChitC_301366112_L6",
+              "City": "Toronto",
+              "PostalCode": "M1M 1M1",
+              "Province": "ON",
+              "Street": "1 King St"
+            },
+            "DeliveryTime": "2023-11-11T23:43:03.1347722-05:00",
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[HongChitC_301366112_L6.OrderItem, HongChitC_301366112_L6]], mscorlib",
+              "$values": [
+                {
+                  "$type": "HongChitC_301366112_L6.OrderItem, HongChitC_301366112_L6",
+                  "Cost": 5.50,
+                  "Item": {
+                    "$type": "HongChitC_301366112_L6.SandwichWithRoastedBeef, HongChitC_301366112_L6",
+                    "description": "White bread sandwich with roasted beef",
+                    "baseCost": 5.50,
+                    "Description": "White bread sandwich with roasted beef",
+                    "BaseCost": 5.50
+                  }
+                },
+                {
+                  "$type": "HongChitC_301366112_L6.OrderItem, HongChitC_301366112_L6",
+                  "Cost": 4.00,
+                  "Item": {
+                    "$type": "HongChitC_301366112_L6.SandwichWithEggSalad, HongChitC_301366112_L6",
+                    "description": "White bread sandwich with egg salad",
+                    "baseCost": 4.00,
+                    "Description": "White bread sandwich with egg salad",
+                    "BaseCost": 4.00
+                  }
+                }
+              ]
+            },
+            "OrderId": 6,
+            "OrderTime": "2023-11-11T23:43:03.1347722-05:00",
+            "OrderType": 1
+          }
+        ]
+      },
+      "Phone": 0
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\Users\henry\source\repos\HongChitC_301366112_L6\TestHarness\bin\Debug\TestHarness.exe.config
+C:\Users\henry\source\repos\HongChitC_301366112_L6\TestHarness\bin\Debug\TestHarness.exe
+C:\Users\henry\source\repos\HongChitC_301366112_L6\TestHarness\bin\Debug\TestHarness.pdb
+C:\Users\henry\source\repos\HongChitC_301366112_L6\TestHarness\bin\Debug\HongChitC_301366112_L6.dll
+C:\Users\henry\source\repos\HongChitC_301366112_L6\TestHarness\bin\Debug\Newtonsoft.Json.dll
+C:\Users\henry\source\repos\HongChitC_301366112_L6\TestHarness\bin\Debug\HongChitC_301366112_L6.pdb
+C:\Users\henry\source\repos\HongChitC_301366112_L6\TestHarness\bin\Debug\HongChitC_301366112_L6.dll.config
+C:\Users\henry\source\repos\HongChitC_301366112_L6\TestHarness\bin\Debug\Newtonsoft.Json.xml
+C:\Users\henry\source\repos\HongChitC_301366112_L6\TestHarness\obj\Debug\TestHarness.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\HongChitC_301366112_L6\TestHarness\obj\Debug\TestHarness.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\HongChitC_301366112_L6\TestHarness\obj\Debug\TestHarness.csproj.CopyComplete
+C:\Users\henry\source\repos\HongChitC_301366112_L6\TestHarness\obj\Debug\TestHarness.exe
+C:\Users\henry\source\repos\HongChitC_301366112_L6\TestHarness\obj\Debug\TestHarness.pdb

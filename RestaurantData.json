@@ -1,0 +1,529 @@
+{
+  "$type": "System.Collections.Generic.List`1[[Comp123_S1_Group1_L6.Customer, Comp123_S1_Group1_L6]], mscorlib",
+  "$values": [
+    {
+      "$type": "Comp123_S1_Group1_L6.Customer, Comp123_S1_Group1_L6",
+      "Address": {
+        "$type": "Comp123_S1_Group1_L6.Address, Comp123_S1_Group1_L6",
+        "City": "Toronto",
+        "PostalCode": "M1M 1M1",
+        "Province": "ON",
+        "Street": "1 King St"
+      },
+      "IdNumber": 1,
+      "Name": "Restaurant",
+      "Orders": {
+        "$type": "System.Collections.Generic.List`1[[Comp123_S1_Group1_L6.Order, Comp123_S1_Group1_L6]], mscorlib",
+        "$values": [
+          {
+            "$type": "Comp123_S1_Group1_L6.Order, Comp123_S1_Group1_L6",
+            "Cost": 8.65,
+            "Delivered": false,
+            "DeliveryAddress": {
+              "$type": "Comp123_S1_Group1_L6.Address, Comp123_S1_Group1_L6",
+              "City": "Toronto",
+              "PostalCode": "M1M 1M1",
+              "Province": "ON",
+              "Street": "1 King St"
+            },
+            "DeliveryTime": "0001-01-01T00:00:00",
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6]], mscorlib",
+              "$values": [
+                {
+                  "$type": "Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6",
+                  "Cost": 6.35,
+                  "Item": {
+                    "$type": "Comp123_S1_Group1_L9.Mayo, Comp123_S1_Group1_L9",
+                    "description": "White bread sandwich with bacon, Lettuce, Lettuce, Tomato, Chees, Mayo",
+                    "baseCost": 6.35,
+                    "Description": "White bread sandwich with bacon, Lettuce, Lettuce, Tomato, Chees, Mayo",
+                    "BaseCost": 6.35
+                  }
+                },
+                {
+                  "$type": "Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6",
+                  "Cost": 2.30,
+                  "Item": {
+                    "$type": "Comp123_S1_Group1_L6.Sugar, Comp123_S1_Group1_L6",
+                    "description": "Dark roast coffee, Milk, Milk, Sugar, Sugar",
+                    "baseCost": 2.30,
+                    "Description": "Dark roast coffee, Milk, Milk, Sugar, Sugar",
+                    "BaseCost": 2.30
+                  }
+                }
+              ]
+            },
+            "OrderId": 3,
+            "OrderTime": "2023-12-02T19:34:10.2496964-05:00",
+            "OrderType": 1
+          },
+          {
+            "$type": "Comp123_S1_Group1_L6.Order, Comp123_S1_Group1_L6",
+            "Cost": 14.56,
+            "Delivered": true,
+            "DeliveryAddress": {
+              "$type": "Comp123_S1_Group1_L6.Address, Comp123_S1_Group1_L6",
+              "City": "Toronto",
+              "PostalCode": "M1M 1M1",
+              "Province": "ON",
+              "Street": "1 King St"
+            },
+            "DeliveryTime": "2023-12-02T22:02:56.9973718-05:00",
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6]], mscorlib",
+              "$values": [
+                {
+                  "$type": "Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6",
+                  "Cost": 6.05,
+                  "Item": {
+                    "$type": "Comp123_S1_Group1_L9.Mayo, Comp123_S1_Group1_L9",
+                    "description": "White bread sandwich with bacon, Lettuce, Tomato, Chees, Mayo",
+                    "baseCost": 6.05,
+                    "Description": "White bread sandwich with bacon, Lettuce, Tomato, Chees, Mayo",
+                    "BaseCost": 6.05
+                  }
+                },
+                {
+                  "$type": "Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6",
+                  "Cost": 4.35,
+                  "Item": {
+                    "$type": "Comp123_S1_Group1_L9.Tomato, Comp123_S1_Group1_L9",
+                    "description": "White bread sandwich with egg salad, Tomato",
+                    "baseCost": 4.35,
+                    "Description": "White bread sandwich with egg salad, Tomato",
+                    "BaseCost": 4.35
+                  }
+                },
+                {
+                  "$type": "Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6",
+                  "Cost": 2.30,
+                  "Item": {
+                    "$type": "Comp123_S1_Group1_L6.Sugar, Comp123_S1_Group1_L6",
+                    "description": "Dark roast coffee, Milk, Milk, Sugar, Sugar",
+                    "baseCost": 2.30,
+                    "Description": "Dark roast coffee, Milk, Milk, Sugar, Sugar",
+                    "BaseCost": 2.30
+                  }
+                },
+                {
+                  "$type": "Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6",
+                  "Cost": 1.86,
+                  "Item": {
+                    "$type": "Comp123_S1_Group1_L9.Sweetener, Comp123_S1_Group1_L9",
+                    "description": "Tea, Sweetener",
+                    "baseCost": 1.86,
+                    "Description": "Tea, Sweetener",
+                    "BaseCost": 1.86
+                  }
+                }
+              ]
+            },
+            "OrderId": 4,
+            "OrderTime": "2023-12-02T22:02:56.9973718-05:00",
+            "OrderType": 1
+          }
+        ]
+      },
+      "Phone": 0
+    },
+    {
+      "$type": "Comp123_S1_Group1_L6.Customer, Comp123_S1_Group1_L6",
+      "Address": {
+        "$type": "Comp123_S1_Group1_L6.Address, Comp123_S1_Group1_L6",
+        "City": "Toronto",
+        "PostalCode": "M2M 2K5",
+        "Province": "ON",
+        "Street": "35 Elm St"
+      },
+      "IdNumber": 2,
+      "Name": "John Smith",
+      "Orders": {
+        "$type": "System.Collections.Generic.List`1[[Comp123_S1_Group1_L6.Order, Comp123_S1_Group1_L6]], mscorlib",
+        "$values": []
+      },
+      "Phone": 4161234567
+    },
+    {
+      "$type": "Comp123_S1_Group1_L6.Customer, Comp123_S1_Group1_L6",
+      "Address": {
+        "$type": "Comp123_S1_Group1_L6.Address, Comp123_S1_Group1_L6",
+        "City": "Toronto",
+        "PostalCode": "M2T 1M1",
+        "Province": "ON",
+        "Street": "35 Queen St"
+      },
+      "IdNumber": 3,
+      "Name": "Ann Brown",
+      "Orders": {
+        "$type": "System.Collections.Generic.List`1[[Comp123_S1_Group1_L6.Order, Comp123_S1_Group1_L6]], mscorlib",
+        "$values": []
+      },
+      "Phone": 4169876543
+    },
+    {
+      "$type": "Comp123_S1_Group1_L6.Customer, Comp123_S1_Group1_L6",
+      "Address": {
+        "$type": "Comp123_S1_Group1_L6.Address, Comp123_S1_Group1_L6",
+        "City": "Toronto",
+        "PostalCode": "",
+        "Province": "ON",
+        "Street": ""
+      },
+      "IdNumber": 4,
+      "Name": "John Dow",
+      "Orders": {
+        "$type": "System.Collections.Generic.List`1[[Comp123_S1_Group1_L6.Order, Comp123_S1_Group1_L6]], mscorlib",
+        "$values": []
+      },
+      "Phone": 0
+    },
+    {
+      "$type": "Comp123_S1_Group1_L6.Customer, Comp123_S1_Group1_L6",
+      "Address": {
+        "$type": "Comp123_S1_Group1_L6.Address, Comp123_S1_Group1_L6",
+        "City": "City",
+        "PostalCode": "Postal Code",
+        "Province": "Province",
+        "Street": "Street"
+      },
+      "IdNumber": 5,
+      "Name": "Customer Name",
+      "Orders": {
+        "$type": "System.Collections.Generic.List`1[[Comp123_S1_Group1_L6.Order, Comp123_S1_Group1_L6]], mscorlib",
+        "$values": [
+          {
+            "$type": "Comp123_S1_Group1_L6.Order, Comp123_S1_Group1_L6",
+            "Cost": 2.30,
+            "Delivered": false,
+            "DeliveryAddress": {
+              "$type": "Comp123_S1_Group1_L6.Address, Comp123_S1_Group1_L6",
+              "City": "City",
+              "PostalCode": "Postal Code",
+              "Province": "Province",
+              "Street": "Street"
+            },
+            "DeliveryTime": "0001-01-01T00:00:00",
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6]], mscorlib",
+              "$values": [
+                {
+                  "$type": "Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6",
+                  "Cost": 2.30,
+                  "Item": {
+                    "$type": "Comp123_S1_Group1_L6.Sugar, Comp123_S1_Group1_L6",
+                    "description": "Dark roast coffee, Milk, Milk, Sugar, Sugar",
+                    "baseCost": 2.30,
+                    "Description": "Dark roast coffee, Milk, Milk, Sugar, Sugar",
+                    "BaseCost": 2.30
+                  }
+                }
+              ]
+            },
+            "OrderId": 2,
+            "OrderTime": "2023-12-02T19:33:57.0736544-05:00",
+            "OrderType": 0
+          },
+          {
+            "$type": "Comp123_S1_Group1_L6.Order, Comp123_S1_Group1_L6",
+            "Cost": 7.55,
+            "Delivered": false,
+            "DeliveryAddress": {
+              "$type": "Comp123_S1_Group1_L6.Address, Comp123_S1_Group1_L6",
+              "City": "City",
+              "PostalCode": "Postal Code",
+              "Province": "Province",
+              "Street": "Street"
+            },
+            "DeliveryTime": "0001-01-01T00:00:00",
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6]], mscorlib",
+              "$values": [
+                {
+                  "$type": "Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6",
+                  "Cost": 2.05,
+                  "Item": {
+                    "$type": "Comp123_S1_Group1_L6.Sugar, Comp123_S1_Group1_L6",
+                    "description": "Tea, Milk, Milk, Sugar",
+                    "baseCost": 2.05,
+                    "Description": "Tea, Milk, Milk, Sugar",
+                    "BaseCost": 2.05
+                  }
+                },
+                {
+                  "$type": "Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6",
+                  "Cost": 5.50,
+                  "Item": {
+                    "$type": "Comp123_S1_Group1_L6.SandwichWithRoastedBeef, Comp123_S1_Group1_L6",
+                    "description": "White bread sandwich with roasted beef",
+                    "baseCost": 5.50,
+                    "Description": "White bread sandwich with roasted beef",
+                    "BaseCost": 5.50
+                  }
+                }
+              ]
+            },
+            "OrderId": 3,
+            "OrderTime": "2023-12-02T19:48:09.9452693-05:00",
+            "OrderType": 0
+          },
+          {
+            "$type": "Comp123_S1_Group1_L6.Order, Comp123_S1_Group1_L6",
+            "Cost": 1.80,
+            "Delivered": false,
+            "DeliveryAddress": {
+              "$type": "Comp123_S1_Group1_L6.Address, Comp123_S1_Group1_L6",
+              "City": "City",
+              "PostalCode": "Postal Code",
+              "Province": "Province",
+              "Street": "Street"
+            },
+            "DeliveryTime": "0001-01-01T00:00:00",
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6]], mscorlib",
+              "$values": [
+                {
+                  "$type": "Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6",
+                  "Cost": 1.80,
+                  "Item": {
+                    "$type": "Comp123_S1_Group1_L6.Tea, Comp123_S1_Group1_L6",
+                    "description": "Tea",
+                    "baseCost": 1.80,
+                    "Description": "Tea",
+                    "BaseCost": 1.80
+                  }
+                }
+              ]
+            },
+            "OrderId": 8,
+            "OrderTime": "2023-12-04T19:20:35.0770625-05:00",
+            "OrderType": 0
+          },
+          {
+            "$type": "Comp123_S1_Group1_L6.Order, Comp123_S1_Group1_L6",
+            "Cost": 20.91,
+            "Delivered": false,
+            "DeliveryAddress": {
+              "$type": "Comp123_S1_Group1_L6.Address, Comp123_S1_Group1_L6",
+              "City": "City",
+              "PostalCode": "Postal Code",
+              "Province": "Province",
+              "Street": "Street"
+            },
+            "DeliveryTime": "0001-01-01T00:00:00",
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6]], mscorlib",
+              "$values": [
+                {
+                  "$type": "Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6",
+                  "Cost": 5.75,
+                  "Item": {
+                    "$type": "Comp123_S1_Group1_L9.Mayo, Comp123_S1_Group1_L9",
+                    "description": "Mayo",
+                    "baseCost": 0.00,
+                    "Description": "White bread sandwich with egg salad, Lettuce, Lettuce, Tomato, Chees, Chees, Mayo, Mayo",
+                    "BaseCost": 5.75
+                  }
+                },
+                {
+                  "$type": "Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6",
+                  "Cost": 7.20,
+                  "Item": {
+                    "$type": "Comp123_S1_Group1_L9.Chees, Comp123_S1_Group1_L9",
+                    "description": "Chees",
+                    "baseCost": 0.40,
+                    "Description": "White bread sandwich with roasted beef, Lettuce, Lettuce, Tomato, Tomato, Chees",
+                    "BaseCost": 7.20
+                  }
+                },
+                {
+                  "$type": "Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6",
+                  "Cost": 5.80,
+                  "Item": {
+                    "$type": "Comp123_S1_Group1_L9.Lettuce, Comp123_S1_Group1_L9",
+                    "description": "Lettuce",
+                    "baseCost": 0.30,
+                    "Description": "White bread sandwich with roasted beef, Lettuce",
+                    "BaseCost": 5.80
+                  }
+                },
+                {
+                  "$type": "Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6",
+                  "Cost": 2.16,
+                  "Item": {
+                    "$type": "Comp123_S1_Group1_L9.Sweetener, Comp123_S1_Group1_L9",
+                    "description": "Sweetener",
+                    "baseCost": 0.06,
+                    "Description": "Dark roast coffee, Sugar, Sugar, Sweetener",
+                    "BaseCost": 2.16
+                  }
+                }
+              ]
+            },
+            "OrderId": 9,
+            "OrderTime": "2023-12-04T19:23:30.1620635-05:00",
+            "OrderType": 0
+          },
+          {
+            "$type": "Comp123_S1_Group1_L6.Order, Comp123_S1_Group1_L6",
+            "Cost": 2.25,
+            "Delivered": false,
+            "DeliveryAddress": {
+              "$type": "Comp123_S1_Group1_L6.Address, Comp123_S1_Group1_L6",
+              "City": "City",
+              "PostalCode": "Postal Code",
+              "Province": "Province",
+              "Street": "Street"
+            },
+            "DeliveryTime": "0001-01-01T00:00:00",
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6]], mscorlib",
+              "$values": [
+                {
+                  "$type": "Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6",
+                  "Cost": 2.25,
+                  "Item": {
+                    "$type": "Comp123_S1_Group1_L6.Sugar, Comp123_S1_Group1_L6",
+                    "description": "Sugar",
+                    "baseCost": 0.05,
+                    "Description": "Dark roast coffee, Milk, Milk, Sugar",
+                    "BaseCost": 2.25
+                  }
+                }
+              ]
+            },
+            "OrderId": 10,
+            "OrderTime": "2023-12-04T19:26:38.2607709-05:00",
+            "OrderType": 0
+          }
+        ]
+      },
+      "Phone": 123
+    },
+    {
+      "$type": "Comp123_S1_Group1_L6.Customer, Comp123_S1_Group1_L6",
+      "Address": {
+        "$type": "Comp123_S1_Group1_L6.Address, Comp123_S1_Group1_L6",
+        "City": "buea",
+        "PostalCode": "12WE",
+        "Province": "NW",
+        "Street": "douala"
+      },
+      "IdNumber": 7,
+      "Name": "Yoon",
+      "Orders": {
+        "$type": "System.Collections.Generic.List`1[[Comp123_S1_Group1_L6.Order, Comp123_S1_Group1_L6]], mscorlib",
+        "$values": [
+          {
+            "$type": "Comp123_S1_Group1_L6.Order, Comp123_S1_Group1_L6",
+            "Cost": 4.41,
+            "Delivered": false,
+            "DeliveryAddress": {
+              "$type": "Comp123_S1_Group1_L6.Address, Comp123_S1_Group1_L6",
+              "City": "buea",
+              "PostalCode": "12WE",
+              "Province": "NW",
+              "Street": "douala"
+            },
+            "DeliveryTime": "0001-01-01T00:00:00",
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6]], mscorlib",
+              "$values": [
+                {
+                  "$type": "Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6",
+                  "Cost": 2.31,
+                  "Item": {
+                    "$type": "Comp123_S1_Group1_L9.Sweetener, Comp123_S1_Group1_L9",
+                    "description": "Dark roast coffee, Milk, Milk, Sugar, Sweetener",
+                    "baseCost": 2.31,
+                    "Description": "Dark roast coffee, Milk, Milk, Sugar, Sweetener",
+                    "BaseCost": 2.31
+                  }
+                },
+                {
+                  "$type": "Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6",
+                  "Cost": 2.10,
+                  "Item": {
+                    "$type": "Comp123_S1_Group1_L6.Sugar, Comp123_S1_Group1_L6",
+                    "description": "Tea, Milk, Milk, Sugar, Sugar",
+                    "baseCost": 2.10,
+                    "Description": "Tea, Milk, Milk, Sugar, Sugar",
+                    "BaseCost": 2.10
+                  }
+                }
+              ]
+            },
+            "OrderId": 5,
+            "OrderTime": "2023-12-04T18:02:19.6360216-05:00",
+            "OrderType": 0
+          },
+          {
+            "$type": "Comp123_S1_Group1_L6.Order, Comp123_S1_Group1_L6",
+            "Cost": 5.10,
+            "Delivered": false,
+            "DeliveryAddress": {
+              "$type": "Comp123_S1_Group1_L6.Address, Comp123_S1_Group1_L6",
+              "City": "buea",
+              "PostalCode": "12WE",
+              "Province": "NW",
+              "Street": "douala"
+            },
+            "DeliveryTime": "0001-01-01T00:00:00",
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6]], mscorlib",
+              "$values": [
+                {
+                  "$type": "Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6",
+                  "Cost": 5.10,
+                  "Item": {
+                    "$type": "Comp123_S1_Group1_L9.Chees, Comp123_S1_Group1_L9",
+                    "description": "Chees",
+                    "baseCost": 0.40,
+                    "Description": "White bread sandwich with egg salad, Lettuce, Chees, Chees",
+                    "BaseCost": 5.10
+                  }
+                }
+              ]
+            },
+            "OrderId": 6,
+            "OrderTime": "2023-12-04T19:19:13.2264057-05:00",
+            "OrderType": 0
+          },
+          {
+            "$type": "Comp123_S1_Group1_L6.Order, Comp123_S1_Group1_L6",
+            "Cost": 2.36,
+            "Delivered": false,
+            "DeliveryAddress": {
+              "$type": "Comp123_S1_Group1_L6.Address, Comp123_S1_Group1_L6",
+              "City": "buea",
+              "PostalCode": "12WE",
+              "Province": "NW",
+              "Street": "douala"
+            },
+            "DeliveryTime": "0001-01-01T00:00:00",
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6]], mscorlib",
+              "$values": [
+                {
+                  "$type": "Comp123_S1_Group1_L6.OrderItem, Comp123_S1_Group1_L6",
+                  "Cost": 2.36,
+                  "Item": {
+                    "$type": "Comp123_S1_Group1_L9.Sweetener, Comp123_S1_Group1_L9",
+                    "description": "Sweetener",
+                    "baseCost": 0.06,
+                    "Description": "Dark roast coffee, Milk, Milk, Sugar, Sugar, Sweetener",
+                    "BaseCost": 2.36
+                  }
+                }
+              ]
+            },
+            "OrderId": 7,
+            "OrderTime": "2023-12-04T19:19:45.3869647-05:00",
+            "OrderType": 0
+          }
+        ]
+      },
+      "Phone": 123456
+    }
+  ]
+}
